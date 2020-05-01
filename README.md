@@ -7,4 +7,4 @@ JoinUI Plugin With Additional Buttons
 - [x] Support Color Text
 - [x] Editable Config or Text
 - [x] No Need FormAPI Plugin
-- [ ] Button Image  // Todo
+- [ ] Button Image
