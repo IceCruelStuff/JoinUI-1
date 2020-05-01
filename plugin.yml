@@ -1,0 +1,7 @@
+...
+name: JoinUI
+main: brokiem\JoinUI\JoinUI
+api: [3.0.0, 3.11]
+version: 1.0
+author: brokiem
+...
