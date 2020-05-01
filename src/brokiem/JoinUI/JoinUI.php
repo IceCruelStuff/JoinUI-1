@@ -12,7 +12,7 @@ use pocketmine\utils\Config;
 use pocketmine\event\Listener;
 
 use brokiem\JoinUI\lib\FormAPI;
-use brokiem\JoinUI\lib\FormAPI\SimpleForm;
+use brokiem\JoinUI\lib\FormAPI\{Form, SimpleForm};
 
 class JoinUI extends PluginBase implements Listener
 {
